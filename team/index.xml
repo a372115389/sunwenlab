@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teams | 孙文实验室</title>
+    <link>https://example.com/team/</link>
+      <atom:link href="https://example.com/team/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teams</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Teams</title>
+      <link>https://example.com/team/</link>
+    </image>
+    
+    <item>
+      <title>孙文</title>
+      <link>https://example.com/team/external-project1/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/team/external-project1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;工作经历 Work Experience&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2019年2月至今，西北工业大学，网络空间安全学院，教授，博士生导师&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;教育经历 Education Experience&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2009年8月至2014年6月，新加坡国立大学，电子计算机系，博士&lt;/p&gt;
+&lt;p&gt;2005年9月至2009年7月，哈尔滨工业大学，实验学院（电子信息工程专业），本科&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;科学研究 Scientific Research&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;物联网及其安全，人工智能，分布式智能，人工智能安全&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;招生信息：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;拟招收博士研究生、硕士研究生若干名，欢迎有理想，爱思考，希望在研究生时间能挖掘自己潜力的同学报考。可为学生提供国际一流的科研平台和产业界前沿的项目机会。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;综合介绍 General Introduction&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;工学博士，教授，博士生导师，于2014年于新加坡国立大学获得工学博士，2009年于哈尔滨工业大学获得学士学位。主要学术兼职：IEEE高级会员，中国电子协会青年女科学家协会会员，工信部人工智能领域专家，ICC与GlobeCom等旗舰会议技术委员会委员，IEEE WiMob与CNS publicity主席等。主持参与国家自然科学基金、十三五预研项目、西安市科技成果转化等10余项。长期致力于分布式智能、物联网、5G与网络安全的研究，主要关注工业物联网通信协议设计与数据融合，可穿戴设备与车联网的安全问题。近年来，在国际权威期刊会议IEEE JSAC、TWC、TVT、IEEE Wireless Communications等上发表论文80余篇，专利二十余项。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>王曲北剑</title>
+      <link>https://example.com/team/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/team/external-project/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;工作经历 Work Experience&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2020.10-至今 西北工业大学网络空间安全学院 助理教授&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;教育经历 Education Experience&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;2017-2020 澳门科技大学 电子资讯科技 博士&lt;/p&gt;
+&lt;p&gt;2016-2017 墨尔本大学 通讯工程 硕士&lt;/p&gt;
+&lt;p&gt;2013-2015 利物浦大学 电气工程 学士&lt;/p&gt;
+&lt;p&gt;2011-2013 西交利物浦大学 电气工程及其自动化 学士&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;科学研究 Scientific Research&lt;/strong&gt;
+研究方向：&lt;/p&gt;
+&lt;p&gt;无人机辅助通信，物联网，物理层安全，大规模网络的建模分析,强化学习&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;科研项目：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(1) “多簇异构物联网的性能提高策略研究”，省部级，在研, 主持&lt;/p&gt;
+&lt;p&gt;(2)“面向边远应急场景的无人机辅助物联网安全传输机制”,省部级， 在研, 主持&lt;/p&gt;
+&lt;p&gt;(3) 澳门科学技术发展基金, “超密集网络的关键技术研究”, 2018-09 至 2021-09, 135万元(澳门元), 参与&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;学术成果 Academic Achievements&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;[1] Qubeijian Wang, Hong-Ning Dai, Qiu Wang, Mahendra K. Shukla, Wei Zhang, Carlos Guedes Soares, “On Connectivity of UAV-assisted Data Acquisition for Underwater Internet of Things”, IEEE Internet of Things Journal, 2020, 7(6): 5371-5385.&lt;/p&gt;
+&lt;p&gt;[2] Qubeijian Wang, Hong-Ning Dai, Xuran Li, Mahendra K. Shukla, Muhammad Imran, “Artificial Noise Aided Scheme to Secure UAV-assisted Internet of Things with Wireless Power Transfer”, Computer Communications, 2020, 164: 1-12.&lt;/p&gt;
+&lt;p&gt;[3] Qubeijian Wang, Hong-Ning Dai, Hao Wang, Guangquan Xu, Arun Kumar Sangaiah, “UAV-enabled Friendly Jamming Scheme to Secure Industrial Internet of Things” Journal of Communications and Networks, 2019, 21(5): 481-490.&lt;/p&gt;
+&lt;p&gt;[4] Qubeijian Wang, Yalin Liu, Hong-Ning Dai, Muhammad Imran, Nidal Nasser, “Ear in the Sky: Terrestrial Mobile Jamming to Prevent Aerial Eavesdropping”, 2021 IEEE Global Communications Conference (GLOBECOM), Madrid, Spain, 2021.&lt;/p&gt;
+&lt;p&gt;[5] Qubeijian Wang, “A Novel Anti-Eavesdropping Scheme in Wireless Networks: Fri-UJ”, in Proceedings of the 2019 International Conference on Embedded Wireless Systems and Networks (EWSN), Beijing, China, 2019&lt;/p&gt;
+&lt;p&gt;[6] Qubeijian Wang, Hong-Ning Dai, Qiu Wang, Mahendra K. Shukla, “On UAV-assisted Data Acquisition for Underwater IoT in Aquaculture Surveillance”, in Proceedings of the 5th International Conference on Maritime Technology and Engineering (MARTECH), Lisbon, Portugal, 2020&lt;/p&gt;
+&lt;p&gt;[7] Yalin Liu, Hong-Ning Dai, Qubeijian Wang, Muhammad Imran, and Nadra Guizani, “Wireless Powering Internet of Things with UAVs: Challenges and Opportunities”, IEEE Network.（已接收）&lt;/p&gt;
+&lt;p&gt;[8] Xuran Li, Hong-Ning Dai, Qubeijian Wang, Muhammad Imran, Dengwang Li, and Muhammad Ali Imran, “Securing Internet of Medical Things with Friendly-Jamming Schemes”, Computer Communications, 2020, 160: 431-442.&lt;/p&gt;
+&lt;p&gt;[9] Yalin Liu, Hong-Ning Dai, Qubeijian Wang, Mahendra Shukla, Muhammad Imran, “Unmanned Aerial Vehicle for Internet of Everything: Opportunities and Challenges”, Computer Communications, 2020, 155: 66-83.&lt;/p&gt;
+&lt;p&gt;[10] Qiu Wang, Hong-Ning Dai, Hao Wang, Qubeijian Wang, &amp;ldquo;Connectivity of underwater cognitive acoustic networks under spectrum constraint&amp;rdquo;, in Proceedings of the Thirteenth ACM International Conference on Underwater Networks &amp;amp; Systems (WUWNet), Shenzhen, China, 2018&lt;/p&gt;
+&lt;p&gt;[11] 刘亚林，戴弘宁，王曲北剑，“无人机辅助的物联网通信技术及其应用”，物联网学报，2019, 3(4): 48-55.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;学术活动 Professional Activities 国际期刊审稿：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;IEEE Systems Journal, IEEE Internet of Things Journal,  IEEE Transactions on Wireless Communications, IEEE Transactions on Vehicular Technology,  IEEE Transactions on Cognitive Communications and Networking, China Communications&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;国际会议TPC member:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Globecom 2021-2022、VTC2021-Fall, ComComAp 2021, CPSCom 2019, CBDcom 2019&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>张海滨</title>
+      <link>https://example.com/team/external-project2/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/team/external-project2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;个人简介&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;张海宾，男，1981年12月生，工学博士，西安电子科技大学网络与信息安全学院教授、博士生导师、西安电子科技大学杭州研究院副院长。2003年本科毕业于中国海洋大学，考入西安电子科技大学硕博连读，2007年获得计算机应用技术工学博士学位，并留校任教。2010年晋升副教授，被聘为硕士生导师，2018年被聘为博士生导师，2020年晋升教授、博士生导师。2014-2015年，美国德克萨斯州大学达拉斯分校访问学者。&lt;/p&gt;
+&lt;p&gt;近五年来，在相关领域主流期刊会议发表或录用论文三十余篇，其中，中科院SCI一区论文7篇，中科院SCI二区论文8篇。申请国家发明专利二十余项。国防科工局科技委网络安全领域专家，信息技术新工科产学研联盟网络安全专委会副主任委员，国家自然科学基金委评审专家，IEEE Communications Magazine、IEEE Systems Journal、IEEE TVT、IEEE TWC、IEEE TETC、IEEE Internet of Things Journal等国际主流期刊的特约审稿人。&lt;/p&gt;
+&lt;p&gt;基础研究方面，主持国家自然科学基金面面上项目2项、国家自然科学基金青年基金项目1项、陕西省科技攻关计划项目1项，教育部博士点基金（新教师计划）项目1项、博士后基金项目1项和中央高校基本科研业务费资助项目5项。获得陕西高等学校科学技术奖一等奖2项和陕西省科学技术奖二等奖1项。预研方面，主持某科工局基础科研项目3项，主持某委科技委预研项目3项，某委机要局预研项目1项，WJ十三五预研项目1项。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;科学研究 Scientific Research&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;研究领域包括：人工智能安全、工业互联网安全、可信计算等。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
